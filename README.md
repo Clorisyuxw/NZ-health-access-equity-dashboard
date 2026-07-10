@@ -7,7 +7,17 @@ This project analyses health service access barriers in New Zealand using New Ze
 The dashboard identifies which health access barriers are most common, which barriers affect the largest estimated populations, where subgroup equity gaps are largest, and which barriers are increasing or decreasing over time.
 
 The project is designed as a population health reporting and service planning analytics project. It does not analyse hospital operations or patient-level clinical records.
+## Dashboard Preview
 
+The final Power BI dashboard contains four pages covering access barrier prevalence, priority areas, equity gaps and trend changes.
+
+### Access Barrier Overview
+
+![Access Barrier Overview](outputs/screenshots/01_access_barrier_overview.png)
+
+### Priority Matrix
+
+![Priority Matrix](outputs/screenshots/02_priority_matrix.png)
 ## Key Questions
 
 This project aims to answer:

@@ -1,0 +1,15 @@
+indicator_id,indicator_name,indicator_short_name,barrier_type,population,group,start_year,end_year,years_observed,start_value,end_value,percentage_point_change,average_annual_pp_change,trend_direction
+1,Unfilled prescription due to cost,Prescription cost barrier,Cost,adults,Total,2011,2024,13,7.3,3.6,-3.7,-0.28,Decreased
+1,Unfilled prescription due to cost,Prescription cost barrier,Cost,children,Total,2011,2024,13,6.7,1.0,-5.7,-0.44,Decreased
+2,Unmet need for GP due to cost,GP cost barrier,Cost,adults,Total,2011,2024,13,13.6,14.9,1.3,0.1,Increased
+2,Unmet need for GP due to cost,GP cost barrier,Cost,children,Total,2011,2024,13,4.7,1.4,-3.3,-0.25,Decreased
+3,Unmet need for GP due to transport,GP transport barrier,Transport,adults,Total,2011,2024,13,3.4,3.1,-0.3,-0.02,Decreased
+3,Unmet need for GP due to transport,GP transport barrier,Transport,children,Total,2011,2024,13,3.1,1.6,-1.5,-0.12,Decreased
+4,Unmet need for GP due to wait time,GP wait time barrier,Timeliness,adults,Total,2021,2024,3,11.6,25.5,13.9,4.63,Increased
+4,Unmet need for GP due to wait time,GP wait time barrier,Timeliness,children,Total,2021,2024,3,8.0,19.5,11.5,3.83,Increased
+5,Unmet need for GP due to work,GP work constraint,Time constraint,adults,Total,2021,2024,3,7.3,8.8,1.5,0.5,Increased
+5,Unmet need for GP due to work,GP work constraint,Time constraint,children,Total,2021,2024,3,1.6,3.4,1.8,0.6,Increased
+6,Unmet need for dental health care due to cost,Dental cost barrier,Cost,children,Total,2017,2024,7,2.7,3.0,0.3,0.04,Increased
+6,Unmet need for dental health care due to cost,Dental cost barrier,Cost,adults,Total,2013,2024,11,40.6,43.0,2.4,0.22,Increased
+7,Unmet need for mental health care and addictions services,Mental health access barrier,Mental health access,adults,Total,2016,2024,8,5.0,10.5,5.5,0.69,Increased
+7,Unmet need for mental health care and addictions services,Mental health access barrier,Mental health access,children,Total,2016,2024,8,4.7,6.3,1.6,0.2,Increased

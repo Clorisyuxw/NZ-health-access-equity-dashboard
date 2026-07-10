@@ -1,0 +1,109 @@
+population_group_id,population,group,group_category
+1,adults,15-24,Age group
+2,adults,25-34,Age group
+3,adults,35-44,Age group
+4,adults,45-54,Age group
+5,adults,55-64,Age group
+6,adults,65-74,Age group
+7,adults,75+,Age group
+8,adults,Asian,Ethnicity
+9,adults,Asian men,Other
+10,adults,Asian women,Other
+11,adults,Central men,Region
+12,adults,Central women,Region
+13,adults,Central | Te Ikaroa,Region
+14,adults,Disabled,Disability
+15,adults,Disabled men,Disability
+16,adults,Disabled women,Disability
+17,adults,European/Other,Ethnicity
+18,adults,European/Other men,Other
+19,adults,European/Other women,Other
+20,adults,Men,Gender
+21,adults,Midland men,Region
+22,adults,Midland women,Region
+23,adults,Midland | Te Manawa Taki,Region
+24,adults,Māori,Ethnicity
+25,adults,Māori men,Other
+26,adults,Māori women,Other
+27,adults,Non-disabled,Disability
+28,adults,Non-disabled men,Disability
+29,adults,Non-disabled women,Disability
+30,adults,Northern men,Region
+31,adults,Northern women,Region
+32,adults,Northern | Te Tai Tokerau,Region
+33,adults,Pacific,Ethnicity
+34,adults,Pacific men,Other
+35,adults,Pacific women,Other
+36,adults,Quintile 1,Deprivation
+37,adults,Quintile 2,Deprivation
+38,adults,Quintile 3,Deprivation
+39,adults,Quintile 4,Deprivation
+40,adults,Quintile 5,Deprivation
+41,adults,South Island men,Region
+42,adults,South Island women,Region
+43,adults,South Island | Te Waipounamu,Region
+44,adults,Total,Total
+45,adults,Total Asian,Ethnicity
+46,adults,Total Central,Region
+47,adults,Total Disabled,Disability
+48,adults,Total European/Other,Ethnicity
+49,adults,Total Midland,Region
+50,adults,Total Māori,Ethnicity
+51,adults,Total Non-disabled,Disability
+52,adults,Total Northern,Region
+53,adults,Total Pacific,Ethnicity
+54,adults,Total South Island,Region
+55,adults,Women,Gender
+56,children,'1-4,Age group
+57,children,'10-14,Age group
+58,children,'2-4,Age group
+59,children,'5-9,Age group
+60,children,0-4,Age group
+61,children,Asian,Ethnicity
+62,children,Asian boys,Other
+63,children,Asian girls,Other
+64,children,Boys,Gender
+65,children,Central boys,Region
+66,children,Central girls,Region
+67,children,Central | Te Ikaroa,Region
+68,children,Disabled,Disability
+69,children,Disabled boys,Disability
+70,children,Disabled girls,Disability
+71,children,European/Other,Ethnicity
+72,children,European/Other boys,Other
+73,children,European/Other girls,Other
+74,children,Girls,Gender
+75,children,Midland boys,Region
+76,children,Midland girls,Region
+77,children,Midland | Te Manawa Taki,Region
+78,children,Māori,Ethnicity
+79,children,Māori boys,Other
+80,children,Māori girls,Other
+81,children,Non-disabled,Disability
+82,children,Non-disabled boys,Disability
+83,children,Non-disabled girls,Disability
+84,children,Northern boys,Region
+85,children,Northern girls,Region
+86,children,Northern | Te Tai Tokerau,Region
+87,children,Pacific,Ethnicity
+88,children,Pacific boys,Other
+89,children,Pacific girls,Other
+90,children,Quintile 1,Deprivation
+91,children,Quintile 2,Deprivation
+92,children,Quintile 3,Deprivation
+93,children,Quintile 4,Deprivation
+94,children,Quintile 5,Deprivation
+95,children,South Island boys,Region
+96,children,South Island girls,Region
+97,children,South Island | Te Waipounamu,Region
+98,children,Total,Total
+99,children,Total Asian,Ethnicity
+100,children,Total Central,Region
+101,children,Total Disabled,Disability
+102,children,Total European/Other,Ethnicity
+103,children,Total Midland,Region
+104,children,Total Māori,Ethnicity
+105,children,Total Non-disabled,Disability
+106,children,Total Northern,Region
+107,children,Total Pacific,Ethnicity
+108,children,Total South Island,Region

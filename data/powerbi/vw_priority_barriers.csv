@@ -1,0 +1,15 @@
+indicator_id,indicator_name,indicator_short_name,barrier_type,population,year,group,total_value,estimated_number,prevalence_rank,estimated_number_rank
+6,Unmet need for dental health care due to cost,Dental cost barrier,Cost,adults,2024,Total,43.0,1775000.0,1,1
+4,Unmet need for GP due to wait time,GP wait time barrier,Timeliness,adults,2024,Total,25.5,1107000.0,2,2
+2,Unmet need for GP due to cost,GP cost barrier,Cost,adults,2024,Total,14.9,646000.0,3,3
+7,Unmet need for mental health care and addictions services,Mental health access barrier,Mental health access,adults,2024,Total,10.5,456000.0,4,4
+5,Unmet need for GP due to work,GP work constraint,Time constraint,adults,2024,Total,8.8,382000.0,5,5
+1,Unfilled prescription due to cost,Prescription cost barrier,Cost,adults,2024,Total,3.6,155000.0,6,6
+3,Unmet need for GP due to transport,GP transport barrier,Transport,adults,2024,Total,3.1,134000.0,7,7
+4,Unmet need for GP due to wait time,GP wait time barrier,Timeliness,children,2024,Total,19.5,190000.0,1,1
+7,Unmet need for mental health care and addictions services,Mental health access barrier,Mental health access,children,2024,Total,6.3,54000.0,2,2
+5,Unmet need for GP due to work,GP work constraint,Time constraint,children,2024,Total,3.4,33000.0,3,3
+6,Unmet need for dental health care due to cost,Dental cost barrier,Cost,children,2024,Total,3.0,27000.0,4,4
+3,Unmet need for GP due to transport,GP transport barrier,Transport,children,2024,Total,1.6,16000.0,5,5
+2,Unmet need for GP due to cost,GP cost barrier,Cost,children,2024,Total,1.4,13000.0,6,6
+1,Unfilled prescription due to cost,Prescription cost barrier,Cost,children,2024,Total,1.0,9000.0,7,7

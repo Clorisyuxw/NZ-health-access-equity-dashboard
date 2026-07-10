@@ -1,0 +1,8 @@
+indicator_id,indicator_name,indicator_short_name,theme,barrier_type,include_flag
+1,Unfilled prescription due to cost,Prescription cost barrier,Health Access,Cost,True
+2,Unmet need for GP due to cost,GP cost barrier,Health Access,Cost,True
+3,Unmet need for GP due to transport,GP transport barrier,Health Access,Transport,True
+4,Unmet need for GP due to wait time,GP wait time barrier,Health Access,Timeliness,True
+5,Unmet need for GP due to work,GP work constraint,Health Access,Time constraint,True
+6,Unmet need for dental health care due to cost,Dental cost barrier,Health Access,Cost,True
+7,Unmet need for mental health care and addictions services,Mental health access barrier,Health Access,Mental health access,True
